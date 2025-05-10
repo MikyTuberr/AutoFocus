@@ -4,6 +4,8 @@ Projekt demonstruje pomiar ostrości obrazu z użyciem filtru Laplace'a.
 
 # Konfiguracja projektu
 
+Do skompliowania projektu potrzebny jest OpenCV oraz CMake.
+
 ```
 mkdir build
 cmake -B ./build
